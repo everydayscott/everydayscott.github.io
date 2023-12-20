@@ -2,7 +2,6 @@ ABOUT ME
 add paragraph about meeting lauren
 add link to wedding website
 figure out how to incorporate FIRSTS
-add icons to "around the web" section
 update avatar
 
 BLOG
